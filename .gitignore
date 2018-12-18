@@ -1,0 +1,15 @@
+.tmp
+.venv
+.dep
+*.o
+*.hex
+*.out
+*.elf
+
+*.eep
+*.lss
+*.lst
+*.map
+*.sym
+*.lst
+
